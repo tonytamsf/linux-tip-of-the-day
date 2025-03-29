@@ -1,0 +1,15 @@
+Welcome to Day 2 of Linux tips of the day!
+
+Recently I show one of my tutoring students the command to look up how the pipe() function worked in C.
+
+So I googled the word man pipe, he was very surprised and asked me what this was.
+
+manpages are available for all unix commands and most system calls that calls.  It has existed as documentation
+that shipped with the operating system for unix systems.
+
+Let's take a look at few.
+
+man man shows you the the man command
+man ls - teaches you about all the options available to the most common command used in linu
+man printf
+man 3 printf
